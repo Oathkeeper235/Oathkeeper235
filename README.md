@@ -1,6 +1,4 @@
-# About Me:
-## Hi 👋, I'm Atanas Velchevski, a passionate Computer Science student from Skopje.
-
+# Hi 👋, I'm Atanas Velchevski, a passionate Computer Science student from Skopje.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Oathkeeper#9899) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atanas-velchevski-3b14301b0) 
