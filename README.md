@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Atanas Velchevski, a passionate Computer Science student from Skopje.
+<h2>Hi 👋, I'm Atanas Velchevski, a passionate Computer Science student from Skopje.</h2>
 
 
 ## 🌐 Socials:
